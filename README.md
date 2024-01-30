@@ -1,2 +1,2 @@
 # AluraBooks
-Projeto feito durante o curso "HTML e CSS: Mobile First" da Alura
+Projeto feito durante o curso de responsividade, "HTML e CSS: Mobile First", da Alura
